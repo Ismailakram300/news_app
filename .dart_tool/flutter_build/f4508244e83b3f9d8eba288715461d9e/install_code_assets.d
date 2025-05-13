@@ -1,0 +1,1 @@
+ C:\\Users\\Ismail_Akram\\StudioProjects\\news_app\\.dart_tool\\flutter_build\\f4508244e83b3f9d8eba288715461d9e\\native_assets.json: 
