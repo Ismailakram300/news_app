@@ -10,6 +10,18 @@ class HomePage extends StatelessWidget {
       appBar: AppBar(
         title:Text("News App"),
       ),
+    body: Expanded(
+        child:ListView.builder(itemBuilder: (context, index)
+        {
+          return Card(
+            child: ListTile(
+              leading: Text("Name"),
+              title: Text("Name"),
+            ),
+          );
+        },
+        itemCount: 9,
+        )),
     );
   }
 }
